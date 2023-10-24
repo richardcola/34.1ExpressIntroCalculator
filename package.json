@@ -1,0 +1,25 @@
+/* JSON a data interchange format often used for data exchange between a server and a web application or between two different parts of a program
+
+JSON is based on a subset of the JavaScript language and represents data as key-value pairs. 
+
+A file with a .json extension is typically a text file that contains data in JSON (JavaScript Object Notation) format. JSON files are used to store and exchange structured data in a format that is both human-readable and machine-readable. These files are often used for configuration settings, data storage, and data interchange, especially in web development and various software applications.
+
+The content of a .json file consists of JSON data, which can include objects, arrays, key-value pairs, and their associated values.
+
+ */
+
+{
+  "name": "solution-part-1",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
